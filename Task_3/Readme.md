@@ -4,6 +4,15 @@
 
 This project focuses on cleaning, standardizing, and validating a dataset of 100,000 news articles collected during Task 1. The purpose of preprocessing is to improve data quality and prepare the dataset for further analysis and database operations.
 
+## Dataset
+
+The preprocessed dataset contains 100,000 news articles.
+
+Due to its file size, the cleaned CSV is hosted on Google Drive.
+
+- [Download Preprocessed Dataset] https://drive.google.com/file/d/1gKo1xqXAZK9rpA_69KTBeOZNNF23aVL4/view?usp=sharing
+- `preprocessing_summary.csv` contains the preprocessing results.
+- 
 ## Objectives
 
 - Inspect the dataset structure and data types.
