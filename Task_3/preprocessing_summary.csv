@@ -1,0 +1,11 @@
+﻿Metric,Value
+Total Records,100000
+Total Columns,9
+Duplicate Rows,0
+Duplicate Article IDs,0
+Duplicate URLs,0
+Missing Authors,58461
+Missing Descriptions,123
+Invalid Publication Timestamps,0
+Invalid Scraping Timestamps,0
+Missing Timezones,0
